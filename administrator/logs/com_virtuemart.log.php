@@ -22,3 +22,4 @@
 2019-02-02 02:56:24 ERROR vmError: COM_VIRTUEMART_CANNOT_STORE_CONFIG
 2019-02-02 03:38:50 ERROR vmError: Failed to retrieve the Currency Converter XML document.
 2019-02-02 03:43:05 ERROR vmError: Failed to retrieve the Currency Converter XML document.
+2019-02-02 19:01:01 ERROR vmError: Failed to retrieve the Currency Converter XML document.
